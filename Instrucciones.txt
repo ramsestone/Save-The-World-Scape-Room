@@ -1,1 +1,9 @@
 Instrucciones y lore del juego
+
+// Instrucciones acertijo 1
+
+// Instrucciones acertijo 2
+
+// Instrucciones acertijo 3
+
+// Instrucciones acertijo 4

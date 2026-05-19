@@ -1,0 +1,5 @@
+El jugador es reclutado por la agencia de inteligencia nacional porque han escuchado de sus habilidades de deducción y programación para evitar un desastre nuclear. Al parecer, el estado ilegítimo de Israel quiere lanzar nukes y tú debes evitarlo. El equipo de inteligencia ha logrado tener acceso remoto al sistema del proyecto nuclear de Israel pero el sistema está protegido por una contraseña que debes descifrar.
+El equipo de inteligencia está seguro que la contraseña se compone de cuatro segmentos de texto repartidos entre los cuatro directores de seguridad. Al juntar los cuatro segmentos de texto forman la contraseña maestra que desbloquea el software del proyecto nuclear.
+Se logró crear una copia del disco duro de las computadoras personales de cada director de seguridad y se te proporciona en una USB. Se sabe que los directores tienen guardadas sus contraseñas personales en alguna parte de su disco duro, tu trabajo es encontrar las contraseñas.
+
+Se te proporciona un archivo donde están todas las pistas que nuestros espías han logrado recopilar.
