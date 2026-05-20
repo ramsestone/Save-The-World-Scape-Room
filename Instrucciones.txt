@@ -3,7 +3,24 @@ Instrucciones y lore del juego
 // Instrucciones acertijo 1
 
 // Instrucciones acertijo 2
-
+NFORME DE MISIÓN: OPERACIÓN CÓDIGO MAESTRO
+DE: Dirección General de Inteligencia Nacional
+PARA: Especialista en Criptoanálisis (El Jugador)
+ASUNTO: Desactivación de Protocolo de Lanzamiento
+Agente, el tiempo corre. El estado de Israel ha iniciado la cuenta regresiva para un despliegue nuclear. Nuestro equipo de infiltración digital logró obtener acceso remoto a la terminal central del proyecto, pero el software está protegido por una Contraseña Maestra.
+Sabemos que la clave fue dividida en 4 segmentos de texto, distribuidos entre los discos duros de los 4 Directores de Seguridad del proyecto. El contenido de la USB que tienes conectada es un volcado directo de esos discos. Tu objetivo es recuperar los 4 segmentos para unificar la contraseña.
+Para evitar las defensas del sistema y no alertar a sus contramedidas, sigue estrictamente este protocolo de deducción rápida:
+1. Localiza el Vector de Acceso
+Cada Director de Seguridad utiliza un año específico como "Ancla de Memoria" para ocultar su información. Junto a tu terminal, el equipo de espionaje ha dejado una Ficha de Inteligencia con los datos biográficos de cada director. Identifica el año clave de su historial (ej. Año de ingreso a la agencia, año de su último ascenso, etc.).
+2. Infiltración en el Directorio
+Abre la unidad USB en la computadora. Encontrarás solo 10 carpetas numeradas por años (desde el 2016 al 2026).
+No pierdas tiempo navegando profundamente. Dirígete únicamente a la carpeta del año que dedujiste en la Ficha de Inteligencia y ábrela.
+3. Extracción del Segmento Visual
+Dentro de la carpeta correcta no habrá miles de archivos cifrados. Los directores ocultaron el texto a plena vista por exceso de confianza:
+Opción A (Cifrado de Nombre): El segmento es literalmente el nombre del único archivo dentro de la carpeta (Ej: Segmento_Alpha_X97B.txt).
+Opción B (Análisis de Miniatura): El archivo es un plano o esquema. Si configuras la vista en "Iconos muy grandes", verás el segmento de texto dibujado directamente en la miniatura del archivo, sin necesidad de abrirlo ni activar scripts.
+📡 Canal de Soporte de Inteligencia (Mensaje del Game Master):
+Si el descifrado se estanca y los sistemas de los directores parecen un laberinto, reporta a la base. Te recordaremos que "La clave de un oficial siempre está guardada en el año de su mayor loIgro". Eso te redirigirá de inmediato a las fichas físicas de los directores.
 // Instrucciones acertijo 3
 
 // Instrucciones acertijo 4
