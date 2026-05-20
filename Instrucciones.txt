@@ -19,7 +19,7 @@ No pierdas tiempo navegando profundamente. Dirígete únicamente a la carpeta de
 Dentro de la carpeta correcta no habrá miles de archivos cifrados. Los directores ocultaron el texto a plena vista por exceso de confianza:
 Opción A (Cifrado de Nombre): El segmento es literalmente el nombre del único archivo dentro de la carpeta (Ej: Segmento_Alpha_X97B.txt).
 Opción B (Análisis de Miniatura): El archivo es un plano o esquema. Si configuras la vista en "Iconos muy grandes", verás el segmento de texto dibujado directamente en la miniatura del archivo, sin necesidad de abrirlo ni activar scripts.
-📡 Canal de Soporte de Inteligencia (Mensaje del Game Master):
+Canal de Soporte de Inteligencia (Mensaje del Game Master):
 Si el descifrado se estanca y los sistemas de los directores parecen un laberinto, reporta a la base. Te recordaremos que "La clave de un oficial siempre está guardada en el año de su mayor loIgro". Eso te redirigirá de inmediato a las fichas físicas de los directores.
 // Instrucciones acertijo 3
 
