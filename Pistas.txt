@@ -1,7 +1,7 @@
 // Pista acertijo 1
 
 // Pista acertijo 2
-
+Parte 1  (La pista es física)
 // Pista acertijo 3
 
 // Pista acertijo 4
