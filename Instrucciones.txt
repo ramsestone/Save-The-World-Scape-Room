@@ -24,3 +24,76 @@ Si el descifrado se estanca y los sistemas de los directores parecen un laberint
 // Instrucciones acertijo 3
 
 // Instrucciones acertijo 4
+(De Angel y Uriel)
+# EL ORIGEN DE “EL PRISIONERO”
+
+    Semanas antes de la activación del Proyecto Nuclear, uno de los ingenieros principales del sistema desapareció de todos los registros oficiales.
+    Su nombre fue eliminado de documentos internos, fotografías y bases de datos militares. Los directores aseguraron que murió durante una fuga de información, pero nuestros agentes creen otra cosa:
+    El ingeniero descubrió que el protocolo nuclear podía activarse automáticamente sin autorización humana una vez iniciada la cuenta regresiva.
+    Intentó detenerlo. Y fracasó.
+    Antes de desaparecer, logró infiltrar una última evidencia dentro de los servidores centrales. No podía enviar mensajes directos porque todas las comunicaciones estaban monitoreadas, así que escondió pistas utilizando elementos cotidianos del sistema operativo.
+    Los directores jamás encontraron el archivo porque asumieron que era basura digital.
+
+# ¿POR QUÉ “EL PRISIONERO”?
+
+    El ingeniero utilizaba ese alias porque sabía que estaba atrapado:
+    - atrapado dentro de la instalación,
+    - atrapado dentro del sistema,
+    - y finalmente atrapado dentro de la propia computadora.
+    Según fragmentos recuperados del registro interno, escribió:
+    “Si no puedo escapar físicamente, dejaré mi mente dentro de la máquina.”
+    Por eso la carpeta oculta parece “fuera de lugar”: no forma parte de los archivos oficiales de los directores, sino de alguien que intentó dejar un camino secreto para quien encontrara la USB.
+
+# EL SIGNIFICADO DEL ACERTIJO
+
+    El acertijo del monitor no solo es una adivinanza.
+    Es un mensaje simbólico.
+    “Estoy encerrado en una pequeña caja…”
+    El ingeniero se describe a sí mismo atrapado dentro del sistema.
+    “Me alimento de electricidad…”
+    El sistema sigue vivo mientras la terminal siga encendida.
+    “Te muestro un mundo entero a través de mis ventanas.”
+    Aquí hay doble significado:
+    - las ventanas del monitor,
+    - y el sistema operativo Windows.
+    El monitor representa la única forma que el ingeniero tiene de comunicarse con el exterior.
+
+# CÓMO HACERLO MÁS INMERSIVO
+
+Puedes agregar pequeños detalles físicos o digitales para reforzar la historia:
+
+## Opción 1 — Archivo Corrupto
+
+    Dentro de la carpeta “El Prisionero” hay:
+    - un archivo dañado,
+    - una imagen incompleta,
+    - o notas escritas apresuradamente.
+    Como si alguien hubiera intentado borrar la evidencia antes.
+
+## Opción 2 — Registro de Vigilancia
+
+    Agregar un TXT con algo así:
+    REGISTRO INTERNO — CLASIFICADO
+    El Ingeniero 04 ha sido aislado.
+    Continúa intentando dejar mensajes ocultos dentro de las terminales visuales.
+    Se recomienda vigilancia constante sobre todos los monitores activos.
+    Eso hace que la palabra “monitor” deje de sentirse gratuita y se vuelva una pista narrativa.
+
+## Opción 3 — El Último Mensaje
+
+    Después de resolver el acertijo, el Game Master puede decir:
+    “Entendiste dónde estaba atrapado…
+    Ahora entiende qué estaba intentando mostrarte.”
+    Eso hace sentir al jugador que el acertijo no era solo una respuesta, sino una advertencia.
+
+# POR QUÉ FUNCIONA BIEN EN UN ESCAPE ROOM
+
+    Porque transforma una adivinanza simple en:
+    - evidencia clandestina,
+    - mensaje de un traidor,
+    - pista emocional,
+    - y parte activa del mundo narrativo.
+    El jugador ya no siente:
+    “resolví un acertijo”.
+    Ahora siente:
+    “descubrí el mensaje oculto de alguien atrapado dentro del sistema.”
