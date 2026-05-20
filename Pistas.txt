@@ -5,3 +5,10 @@ Parte 1  (La pista es física)
 // Pista acertijo 3
 
 // Pista acertijo 4
+
+=== DIRECTOR 2 ===
+[Interceptado de canal seguro — Agente Mirlo, 14:32hrs]
+"Confirmado: el Director 2 tiene debilidad por los pasatiempos en papel.
+Se le ha visto imprimiendo algo desde su computadora personal los domingos.
+Creemos que usa sus juegos como método de ocultamiento. Revisa bien su disco duro."
+>>>>>>> 42c15db (Agrega acertijo Director 2)
